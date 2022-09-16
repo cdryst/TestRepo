@@ -1,1 +1,4 @@
 manzana
+pera
+banana
+sapote
