@@ -1,1 +1,5 @@
+manzana
+pera
+banana
+sapote
 mandarinas
